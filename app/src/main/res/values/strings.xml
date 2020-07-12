@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application post7</string>
+    <string name="user_name">username</string>
+    <string name="name_edit">Name</string>
+    <string name="name_button">Change Name</string>
+    <string name="error_message">Something went wrong. Please try again later</string>
+</resources>
