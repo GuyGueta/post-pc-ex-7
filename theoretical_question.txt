@@ -1,0 +1,7 @@
+Save the token locally:
+    Pro: No need for extra network request.
+	Con: In case the server wants to update or invalidate a token, we will use the older token.
+	
+re-request the token each time:
+    Pro: we will get a token that the server wants to update or invalidate.
+	Con: We flood the server with (maybe) unnecessary requests
